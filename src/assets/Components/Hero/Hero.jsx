@@ -4,7 +4,7 @@ import "../Hero/hero.css";
 
 function Hero() {
   return (
-    <section className="hero" style={{ backgroundImage: `url(${Avatar})` }}>
+    <section id="inicio" className="hero" style={{ backgroundImage: `url(${Avatar})` }}>
       <div
         className="hero-bg-alt"
         style={{ backgroundImage: `url(${AvatarSorrindo})` }}
