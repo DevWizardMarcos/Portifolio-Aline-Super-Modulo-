@@ -2,7 +2,7 @@
 
 <img src="src/assets/Components/Avatar.png" alt="Banner do projeto: personagem Aline em estilo dark azul" width="100%" />
 
-# 💙 Portfólio Aline: uma SPA em React feita para ensinar
+# 💙 Portfólio Alice: uma SPA em React feita para ensinar
 
 **Projeto que construí como instrutor do Super Módulo da Infinity School para mostrar aos alunos, na prática, como sai um portfólio de nível profissional:** componentizado, animado sem bibliotecas extras e pensado em acessibilidade desde o início.
 
